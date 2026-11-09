@@ -2,7 +2,7 @@
 
 ## 1. Projectbeschrijving
 
-Smart Greenhouse is een IoT-project waarbij de omgevingsomstandigheden van een serre of terrarium automatisch worden gemeten en opgevolgd.
+Smart Serre is een IoT-project waarbij de omgevingsomstandigheden van een serre of terrarium automatisch worden gemeten en opgevolgd.
 
 Het systeem bestaat uit twee ESP32-microcontrollers die draadloos met elkaar communiceren via LoRa (868 MHz).
 
